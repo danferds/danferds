@@ -4,7 +4,7 @@
 - 🇧🇷 Brazilian technology enthusiast;
 - ⏳ I'm 23 years old.
 
-##
+---
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=danferds&show_icons=true&count_private=true&hide_border=true&title_color=bd93f9&icon_color=bd93f9&text_color=f8f8f2&bg_color=282a36" alt="Daniel Fernandes github stats" /> 
@@ -12,13 +12,14 @@
 </div>
 
 ##
+
 ### Tools and Skills
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Visual_Studio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-##
+
 ### Contacts
 <div> 
   <a href="https://www.instagram.com/danferds/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
