@@ -6,9 +6,9 @@
 
 ---
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=danferds&show_icons=true&count_private=true&hide_border=true&title_color=bd93f9&icon_color=bd93f9&text_color=f8f8f2&bg_color=282a36" alt="Daniel Fernandes github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danferds&layout=compact&hide_border=true&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" />
+<div align = "center">
+<img height = "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danferds&show_icons=true&theme=dracula&count_private=true"/>
+<img height = "170em" src="https://github-readme-stats.vercel.app/api?username=danferds&show_icons=true&show_icons=true&theme=dracula&count_private=true" />
 </div>
 
 ##
