@@ -1,19 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=44475a&height=120&section=header&text=Hi,+my+name+is+Daniel+Fernandes+👋🧑&fontSize=18&fontColor=bd93f9&fontAlignY=20"/>
 
-- 🔥 Beginner Java Developer;
-- 🇧🇷 Brazilian technology enthusiast;
-- ⏳ I'm 23 years old.
-
+* 🔥 Beginner Java Developer;
+* 🇧🇷 Brazilian technology enthusiast;
+* ⏳ I'm 23 years old.
 ---
 
-<div align="center">
+<div align="rigth">
   <a href="https://github.com/danferds">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=danferds&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danferds&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=danferds&show_icons=true&theme=dracula"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danferds&layout=compact&theme=dracula"/>
 </div>
 
 ##
-
+  
 ### Tools and Skills
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
