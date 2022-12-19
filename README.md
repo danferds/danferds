@@ -3,16 +3,9 @@
 * 🔥 Beginner Java Developer;
 * 🇧🇷 Brazilian technology enthusiast;
 * ⏳ I'm 23 years old.
----
-
-<div align="center">
-  <a href="https://github.com/danferds">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=danferds&show_icons=true&theme=dracula"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danferds&layout=compact&theme=dracula"/>
-</div>
 
 ##
-  
+
 ### Tools and Skills
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -25,6 +18,16 @@
   <a href="https://www.instagram.com/danferds/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:danielferdsdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/danferds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
+
+---
+
+
+
+<div align="center">
+  <a href="https://github.com/danferds">
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=danferds&show_icons=true&theme=dracula"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danferds&layout=compact&theme=dracula"/>
 </div>
 
 <br>
